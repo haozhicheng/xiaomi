@@ -519,6 +519,7 @@ a{
 	/* margin-top: -70px; */
 	/* display: block; */
 	transform: translateY(-70px);
+	transition: 0.3s;
 }
 .main .neikuan .jiadian .bottom .box:nth-child(5){
 	margin-right: 0;
@@ -740,6 +741,7 @@ a{
 }
 .main .neikuan .zhineng .bottom .box:hover .font4{
 	transform: translateY(-70px);
+	transition: 0.3s;
 }
 .main .neikuan .zhineng .bottom .box .font3 del{
 	width: 100%;
@@ -927,6 +929,7 @@ a{
 }
 .main .neikuan .dapei .bottom .box:hover .font4{
 	transform: translateY(-70px);
+	transition: 0.3s;
 }
 .main .neikuan .dapei .bottom .box .font3 del{
 	width: 100%;
